@@ -1,6 +1,6 @@
 export function Navbar() {
     return (
-        <div>
+        <div className="xl:block hidden">
             <ul className="flex gap-5 items-center">
                 <li><a href="">Beranda</a></li>
                 <li><a href="">Analisis Lokasi</a></li>
